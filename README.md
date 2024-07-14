@@ -9,3 +9,5 @@ http://localhost/phpmyadmin/index.php?route=/table/structure&db=speech_to_text_d
 
 
 http://localhost/my_project/create_database.php/
+
+file:///C:/Users/WinDows/OneDrive/Desktop/Hessa/htdocs/robot_control/speech_to_text.html
