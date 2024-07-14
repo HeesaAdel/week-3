@@ -6,3 +6,6 @@ file:///C:/Users/WinDows/OneDrive/Desktop/Hessa/htdocs/robot_control/speech_to_t
 
 
 http://localhost/phpmyadmin/index.php?route=/table/structure&db=speech_to_text_db&table=texts
+
+
+http://localhost/my_project/create_database.php/
