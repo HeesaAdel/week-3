@@ -144,4 +144,19 @@ file:///C:/Users/WinDows/OneDrive/Desktop/Hessa/htdocs/robot_control/speech_to_t
 
 
 
+https://wokwi.com/projects/404007049457283073
+
+
+
+
+
+
+
+
+
+https://web.postman.co/workspace/My-Workspace~cbca982a-e7f8-40ed-8521-3792ca89c468/request/create?requestId=8540e578-8002-4dc4-9800-77d5f2f5bc09
+
+
+
+
 
